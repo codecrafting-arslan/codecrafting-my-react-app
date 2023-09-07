@@ -16,8 +16,7 @@ console.log(getResult.data);
  }
     
 
-   
- 
+  
 
 
   return (
