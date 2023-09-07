@@ -16,8 +16,6 @@ console.log(getResult.data);
  }
     
 
-  
-
 
   return (
     <div className="App">
