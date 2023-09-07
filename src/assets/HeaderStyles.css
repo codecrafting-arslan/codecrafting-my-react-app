@@ -1,0 +1,8 @@
+.navbar-expand-lg .navbar-collapse {
+	 
+	justify-content: space-evenly;
+}
+
+.form-inline.my-2.my-lg-0 {
+	display: flex;
+}
